@@ -13,7 +13,7 @@ matplotlib.use('Agg')
 from matplotlib.backends.backend_agg import RendererAgg
 lock = RendererAgg.lock
 
-st.title('PE demo')
+st.title('Testing with GWTC-1 pesummary plots')
 
 sectionnames = [
     'Violin plot',
