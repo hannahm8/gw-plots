@@ -28,9 +28,9 @@ def getLatexLabels():
     latexLabels = {
         "mass_1":r"$m_1$",
         "mass_2":r"$m_2$",
-        "luminosity_distance":r"$D_{\rm L}",
+        "luminosity_distance":r"$D_{\rm L}$",
         "ra":r"$\alpha$",
-        "dec":r"$\delta",
+        "dec":r"$\delta$",
         "a_1":r"$a_1$",
         "a_2":r"$a_2$"
         }
